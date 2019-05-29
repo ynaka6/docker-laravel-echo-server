@@ -17,7 +17,7 @@ Dockerを利用した Laravel Echo Server の開発環境
 ## Usage
 ### Git clone
 ```
-$ git clone xxxxx
+$ git clone https://github.com/nakanakamu0828/docker-laravel-echo-server
 $ cd docker-laravel-echo-server
 ```
 
@@ -179,4 +179,6 @@ http://localhost:8880/ でWelcomeページを表示しましょう。
 {message: "PUBLIC", socket: null}
 ```
 
-が表示されます
+が表示されます。
+
+[![スクショ](https://github.com/nakanakamu0828/docker-laravel-echo-server/blob/master/screenshot.png)](https://github.com/nakanakamu0828/docker-laravel-echo-server/blob/master/screenshot.png)
